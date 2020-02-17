@@ -1,0 +1,31 @@
+body {
+    margin: auto;
+    background-image: url("https://external-preview.redd.it/r6g38aXSaQWtd1KxwJbQ-Fs5jtSVDxX3wtLHJEdqixw.jpg?auto=webp&s=fdee18de73d4f642ccc323470e044ed0f1bae7ea");
+    text-align: center;
+    padding: 10px;
+    
+
+}
+
+
+h1 {
+    border: 5px solid white;
+    background-color: whitesmoke;
+    opacity: 0.8;
+    margin: 30px;
+    
+}
+
+.border {
+    background-color: whitesmoke;
+    border: 5px solid white;
+    opacity: 0.8;
+    margin: 30px;
+}
+
+.footer {
+    background-color: whitesmoke;
+    border: 5px solid white;
+    opacity: 0.9;
+    margin: 30px;
+}
